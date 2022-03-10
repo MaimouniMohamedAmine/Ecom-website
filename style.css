@@ -1,0 +1,46 @@
+/* navbar */
+
+#img_logo {
+    padding: 11PX !important;
+    MARGIN: -28PX !important;
+    width: 130PX !important;
+}
+
+.navbar-brand .icon {
+    width: 35px !important;
+    MARGIN-RIGHT: 31px !important;
+}
+
+.nav-link {
+    margin-left: 30px !important;
+}
+
+
+/* footer */
+
+.logo_f {
+    width: 18% !important;
+    margin-top: -11%;
+}
+
+.icon_f {
+    width: 30px !important;
+    margin: 10px !important;
+}
+
+.r-social {
+    margin-left: 65% !important;
+}
+
+.f_paiment {
+    display: flex;
+}
+
+h4 {
+    font-family: 'Inria Sans';
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+/* header */

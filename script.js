@@ -16,3 +16,16 @@ function decrementValue() {
     }
 
 }
+// _____________________________________________________________________
+
+
+disabled_inputs();
+
+function disabled_inputs() {
+    document.querySelectorAll('.disabling_btn_js').forEach(element => element.disabled = true);
+}
+disabled_quantity();
+
+function disabled_quantity() {
+    document.querySelectorAll('.quantity').forEach(element => element.disabled = true);
+}

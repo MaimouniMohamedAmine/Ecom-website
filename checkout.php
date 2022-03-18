@@ -89,7 +89,7 @@
             <div class="total_value ">
                 <tr><p class="total"> Total </p><tr>
                 <td></td>
-                <tr>><p class="value"> Value </p></tr>                
+                <tr><p class="value"> Value </p></tr>                
             </div>
         </div>
     </main>
